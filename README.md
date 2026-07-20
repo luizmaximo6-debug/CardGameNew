@@ -22,7 +22,7 @@ Players select cards from their hand to battle against an NPC opponent. Each car
 | 💀 **PODER NEGRO** (Dark Power) | Weaker power used when mana is 0 |
 
 
-![Screenshot do jogo](Media/Captura%20de%20tela%202026-06-04%20100047.png)
+
 
 ---
 
