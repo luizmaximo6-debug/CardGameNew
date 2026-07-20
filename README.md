@@ -8,7 +8,7 @@ A text-free 2D card battle game developed in Unity as part of an undergraduate t
 
 Players select cards from their hand to battle against an NPC opponent. Each card type has unique interactions, creating a strategic rock-paper-scissors-style combat system. The game features a progressive tutorial across multiple levels, teaching mechanics through visual feedback alone.
 
-![Screenshot do jogo](Media/Captura%20de%20tela%202026-06-04%20100047.png)
+![Screenshot 1](Media/Captura%20de%20tela%202026-06-04%20100440.png)
 
 ---
 
@@ -49,11 +49,15 @@ Players select cards from their hand to battle against an NPC opponent. Each car
 - Hero tail fire animation after intro
 - NPC frame animation during intro sequence
 
+  ![Screenshot 2](Media/Captura%20de%20tela%202026-06-04%20100853.png)
+
 ### UI Systems
 - Real-time HP and Mana display
 - Undo icon appears on slot hover
 - Fight button appears only when all cards are selected
 - Play button shown only on first run (auto-skipped on retry)
+
+  ![Screenshot do jogo](Media/Captura%20de%20tela%202026-06-04%20100047.png)
 
 ---
 
