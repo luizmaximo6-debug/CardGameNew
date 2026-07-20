@@ -8,6 +8,8 @@ A text-free 2D card battle game developed in Unity as part of an undergraduate t
 
 Players select cards from their hand to battle against an NPC opponent. Each card type has unique interactions, creating a strategic rock-paper-scissors-style combat system. The game features a progressive tutorial across multiple levels, teaching mechanics through visual feedback alone.
 
+![Screenshot do jogo](Media/Captura%20de%20tela%202026-06-04%20100047.png)
+
 ---
 
 ## 🃏 Card Types
