@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c0edb6518325574e9bcf836908fa522, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  levelNumber: 2
+  levelName: Tutorial 2
+  numberOfSlots: 4
+  npcCards:
+  - {fileID: 11400000, guid: b6b5986fdd9670a42b1e5a58196da574, type: 2}
+  - {fileID: 11400000, guid: 38dad644cbd64de4a9cb0da486fc3c16, type: 2}
+  - {fileID: 11400000, guid: f18aed8135142fd468207501045c067e, type: 2}
+  - {fileID: 11400000, guid: 8f98961847f04ff4795653a0488f4eed, type: 2}
+  shuffleNPC: 0
+  npcHero: {fileID: 11400000, guid: b77cb43ed7a49ac4fb09859938090bce, type: 2}
+  playerDeck:
+  - {fileID: 11400000, guid: 8f98961847f04ff4795653a0488f4eed, type: 2}
+  - {fileID: 11400000, guid: b6b5986fdd9670a42b1e5a58196da574, type: 2}
+  - {fileID: 11400000, guid: f18aed8135142fd468207501045c067e, type: 2}
+  - {fileID: 11400000, guid: f18aed8135142fd468207501045c067e, type: 2}
+  playerHero: {fileID: 11400000, guid: 7dc9e0fc7659c8a41a32770771710293, type: 2}
+  playerStartHP: 6
+  npcStartHP: 10
+  mustKillToWin: 1
